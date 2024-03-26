@@ -1,6 +1,6 @@
 ### Ed-Toolkit
 
- <h5>Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso</h5> <a href="https://t.me/ABDIZAMED_MOHAMED">Halkan Taabo</a>
+ <h5>Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso</h5> <a href="https://t.me/Ed110mo">Halkan Taabo</a>
 
 ---
 <p align="center">
