@@ -24,17 +24,17 @@ Ed-Hacking TooLkit <br> Coded By:
  
 
  <h6><p align="center">
-    Waxad Werar u Qadi Karta Intan oo qab  <a href="https://github.com/Abdizamedmoha/Ed-Toolkit/blob/main/cmd/supported-attack.txt">Attack.types</a> waxaadna ku qaadi karta intaan oo <a href="https://github.com/Abdizamedmoha/Ed-TooLkit/blob/main/cmd/supported-social.txt">social media platforms </a> Ah
+    Waxad Werar u Qadi Karta Intan oo qab  <a href="https://github.com/Edhacking/Ed-Toolkit/blob/main/cmd/supported-attack.txt">Attack.types</a> waxaadna ku qaadi karta intaan oo <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/cmd/supported-social.txt">social media platforms </a> Ah
 </p></h6>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.2-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-ABDIZAMED-141449" alt=""/>
+  <img src="https://img.shields.io/badge/author-Mr.Ed-141449" alt=""/>
 <p> <h5> Chat privately for the
- <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Abdizamedmoha/Ed-TooLkit/blob/main/images/Author.jpg">Profile pic</a> <br> </h5> </p>
+ <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/Author.jpg">Profile pic</a> <br> </h5> </p>
  <h6><p align="center" style="color:yellow">
-    FadLan Aqri si aad u fahanto qaabka Lo adeegsado! <a href="https://github.com/Abdizamedmoha/Ed-TooLkit/blob/main/cmd/You-must-read">Tap For More Info</a>
+    FadLan Aqri si aad u fahanto qaabka Lo adeegsado! <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/cmd/You-must-read">Tap For More Info</a>
 </i></a>
 </p></h6>
 
@@ -74,7 +74,7 @@ ugu horayn hadi ad <i>kali linux</i> isticmaalayso account cusub kaso kacso[Halk
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/Abdizamedmoha/Ed-TooLkit.git
+git clone https://github.com/Edhacking/Ed-TooLkit.git
 
 cd Ed-TooLkit
 
@@ -99,7 +99,7 @@ chmod +x Ed-TooLkit.sh
 
 
 ```
-git clone https://github.com/Abdizamedmoha/Ed-TooLkit.git
+git clone https://github.com/Edhacking/Ed-TooLkit.git
 
 cd Ed-TooLkit
 
@@ -124,7 +124,7 @@ chmod +x Ed-TooLkit.sh
 
 
 ```
-git clone https://github.com/Abdizamedmoha/Ed-TooLkit.git
+git clone https://github.com/Edhacking/Ed-TooLkit.git
 
 cd Ed-TooLkit
 
@@ -149,7 +149,7 @@ chmod +x Ed-TooLkit.sh
 
 
 ```
-git clone https://github.com/Abdizamedmoha/Ed-TooLkit.git
+git clone https://github.com/Edhacking/Ed-TooLkit.git
 
 cd Ed-TooLkit
 
@@ -174,7 +174,7 @@ chmod +x Ed-TooLkit.sh
 
 
 ```
-git clone https://github.com/Abdizamedmoha/Ed-TooLkit.git
+git clone https://github.com/Edhacking/Ed-TooLkit.git
 
 cd Ed-TooLkit
 
@@ -235,7 +235,7 @@ start windows.bat
   <img src="images/issues.gif" alt=""/>
 </p>
 
-Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> Fadlan nagula so wadaag qeybtan[CiLad bixinta](https://github.com/Abdizamedmoha/Ed-TooLkit/issues).<br> Fadlan wixi cilad bixina halkaas nagula so wadaag waxana gudo galayna sidi an uxalin lahayn.<br> <i>Waan ku mahadsantahay kuso biiritankaga!</i>
+Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> Fadlan nagula so wadaag qeybtan[CiLad bixinta](https://github.com/Edhacking/Ed-TooLkit/issues).<br> Fadlan wixi cilad bixina halkaas nagula so wadaag waxana gudo galayna sidi an uxalin lahayn.<br> <i>Waan ku mahadsantahay kuso biiritankaga!</i>
 
 <br>
 <h3><p align="center">⛥About Us</p></h3><br>
@@ -245,9 +245,9 @@ We are Somalian 🇸🇴  <b>Ed-SomTech</b> Team, we make Phishing,Bruteforce an
   <img src="images/Teamlogo.jpg" alt=""/>
 </p> <br>
 <h3><p aling="right">For additional things 💭 contact us on:</p></h3>
-<a href="https://t.me/ABDIZAMED_MOHAMED">✔  Telegram </a> <br>
-<a href="https://wa.me/+252905705112">✔  WhatsApp</a>
+<a href="https://t.me/">✔  Telegram </a> <b> Not Available 🚫</b><br>
+<a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b>
 <br>
 <br>
 <br>
-<h5>© Copyright Team <b>Ed-SomTech</b></h5>
+<h5>© Copyright <b>Mr.Ed   </b>     2024</h5>
