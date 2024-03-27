@@ -29,7 +29,7 @@ Ed-Hacking TooLkit <br> Coded By:
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.2-141449" alt=""/>
-  <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
+  <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/> <br>
   <img src="https://img.shields.io/badge/author-Mr.Ed-141449" alt=""/>
 <p> <h5> Chat privately for the
  <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/Teamlogo.jpg">Profile pic</a> <br> </h5> </p>
