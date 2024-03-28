@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/author-Mr.Ed-141449" alt=""/>
    <img src="https://img.shields.io/badge/Coded by-Abdizamed moha-141449" alt=""/>
 <p> <h5> Chat privately for the
- <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/Teamlogo.jpg">Profile pic</a> <br> </h5> </p>
+ <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/My-profile.jpg">Profile pic</a> <br> </h5> </p>
  <h6><p align="center" style="color:yellow">
     FadLan Aqri si aad u fahanto qaabka Lo adeegsado! <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/cmd/You-must-read">Tap For More Info</a>
 </i></a>
