@@ -14,9 +14,9 @@
 ██╔══╝  ██║  ██║
 ███████╗██████╔╝
 ╚══════╝╚═════╝ 
-   ✔Tool name: Ed-Hacking TooLkit 
-   ✔Author:  Mr.Ed
-   ✔Coded By:⛥Abdizamed moha ⛥
+   ✔Tool name: Ed-TooLkit 
+   ✔Author:  Mr.Ed       .
+   ✔Coded By:Abdizamed moha
 
   </pre>
 </div>
@@ -236,14 +236,14 @@ Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> F
 <br>
 <h3><p align="center">⛥About Us</p></h3><br>
  
-I'm one of the Somalian 🇸🇴  <b>Ed-SomTech</b> Team, we make Phishing,Bruteforce and Hacking Tools on termux and Linux....
+ We are the Somalian 🇸🇴  <b>Ed-SomTech</b> Team, we make Phishing,Bruteforce and Hacking Tools on ```Termux``` and ```Linux```....<br>
 <p align="center">
   <img src="images/Teamlogo.jpg" alt=""/>
 </p> <br>
-<h3><p aling="right">For additional things 💭 contact us on:</p></h3>
+<h3><p aling="right">For the additional things 💭 contact us on:</p></h3>
 <a href="https://t.me/">✔  Telegram </a> <b> Not Available 🚫</b><br>
 <a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b>
 <br>
 <br>
 <br>
-<h5>© Copyright <b>Mr.Ed   </b>     2024</h5>
+<h5><p align="center">© Copyright Abdizamed moha 2024</p></h5><br>
