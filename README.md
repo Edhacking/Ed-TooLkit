@@ -14,9 +14,9 @@
 ██╔══╝  ██║  ██║
 ███████╗██████╔╝
 ╚══════╝╚═════╝ 
-              
-Ed-Hacking TooLkit <br> Coded By:
-⛥Mr.Ed⛥
+   ✔Tool name: Ed-Hacking TooLkit 
+   ✔Author:  Mr.Ed
+   ✔Coded By:⛥Abdizamed moha ⛥
 
   </pre>
 </div>
@@ -31,6 +31,7 @@ Ed-Hacking TooLkit <br> Coded By:
   <img src="https://img.shields.io/badge/release-v3.1.0-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/> <br>
   <img src="https://img.shields.io/badge/author-Mr.Ed-141449" alt=""/>
+   <img src="https://img.shields.io/badge/Coded by-Abdizamed moha-141449" alt=""/>
 <p> <h5> Chat privately for the
  <a href="https://wa.me/+252905705112"> author 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/Teamlogo.jpg">Profile pic</a> <br> </h5> </p>
  <h6><p align="center" style="color:yellow">
