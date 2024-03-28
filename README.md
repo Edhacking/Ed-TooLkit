@@ -159,15 +159,13 @@ sudo dpkg -i windscribe-cli.deb
 
 windscirbe login 
 
-cd ../cmd
 
 pip3 install -r requirements.txt
 
-cd ..
 
-chmod +x Ed-TooLkit.sh
+chmod +x *
 
-./Ed-TooLkit.sh
+python3 main.py
 ```
 
 <h5><p align="center">Termux</p></h3>
@@ -176,17 +174,14 @@ chmod +x Ed-TooLkit.sh
 ```
 git clone https://github.com/Edhacking/Ed-TooLkit.git
 
-cd Ed-TooLkit
-
-cd cmd
+cd Ed-TooLkit 
 
 pip3 install -r requirements.txt
 
-cd ..
 
-chmod +x Ed-TooLkit.sh
+chmod +x *
 
-./Ed-TooLkit.sh
+python3 main.py
 ```
 
 <h5><p align="center">Windows</p></h3>
