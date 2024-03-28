@@ -236,10 +236,10 @@ Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> F
 <p align="center">
   <img src="images/Teamlogo.jpg" alt=""/>
 </p> <br>
-<h3><p aling="right">For the additional things 💭 contact us on:</p></h3>
+<h3><p aling="center">For the additional things 💭 contact us on:</p></h3>
 <a href="https://t.me/">✔  Telegram </a> <b> Not Available 🚫</b><br>
-<a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b>
-<br>
+<a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b><br>
+ <p aling="center"><a href="https://github.com/Abdizamedmoha">✔on GitHub</a><b> Second channel Available </b></p></h4>
 <br>
 <br>
 <h5><p align="center">© Copyright Abdizamed moha 2024</p></h5><br>
