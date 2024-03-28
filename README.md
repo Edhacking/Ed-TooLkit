@@ -1,6 +1,6 @@
 ### Ed-Toolkit
 
- <h5>Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso</h5> <a href="https://t.me/Ed110mo">Halkan Taabo</a>
+ <h6><p align="center">Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso <a href="https://t.me/Ed110mo">Halkan Taabo</a></p></h6>
 
 ---
 <p align="center">
@@ -85,15 +85,13 @@ sudo dpkg -i windscribe-cli.deb
 
 windscirbe login 
 
-cd ../cmd
 
 pip3 install -r requirements.txt
 
-cd ..
 
-chmod +x Ed-TooLkit.sh
+chmod +x *
 
-./Ed-TooLkit.sh
+python3 main.py
 ```
 
 <h5><p align="center">Arch</p></h3>
@@ -110,15 +108,15 @@ systemctl start windscribe-cli
 
 windscribe login
 
-cd ../cmd
+
 
 pip3 install -r requirements.txt
 
-cd ..
 
-chmod +x Ed-TooLkit.sh
 
-./Ed-TooLkit.sh
+chmod +x *
+
+python3 main.py
 ```
 
 <h5><p align="center">Void</p></h3>
@@ -137,13 +135,13 @@ xbps-rindex -a windscribe-cli.xbps
 
 windscirbe login 
 
-cd ../cmd
+
 
 pip3 install -r requirements.txt && cd..
 
-chmod +x Ed-TooLkit.sh
+chmod +x *
 
-./Ed-TooLkit.sh
+python3 main.py
 ```
 
 <h5><p align="center">Kali Linux</p></h3>
@@ -193,11 +191,9 @@ python3 main.py
 
 # extract zip file and open terminal into "Ed-TooLkit" folder
 
-cd cmd
 
 pip install -r requirements.txt
 
-cd ..
 
 start windows.bat
 ```
