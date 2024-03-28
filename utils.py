@@ -261,8 +261,8 @@ def insta_massreport(username, vpn, amount, spam_bool):
           c_while = c_while+1 
           
 phishing_help = '''
-Phishing Tool Waxan Ku Gudo Jirna Qaabki Aan Ugu So Dari Lahayn "Ed-TooLkit" Wana TooLka Ugu Xawaaraha iyo Dhakhsiyaha Badan marka Loo Eego Toolasha KaLe Ee Bruteforce-ga Ah Insha'Allah Wakhti Yar Ka Dib Ayaan Kusoo Dari doona Waxadna Kala Socon Karta Wixi Fahfahina: "https://github.com/Edhacking/"
-  Hadii Aad Rabto Inaad Wax Nagu Darsato Cor Ayaad U Tahay Inaad Nala so Wadaagto. Waadna Ku Mahadsantahay Dulqaadkaga Iyo Fahamkaaga!
+Phishing Tool Waxan Ku Gudo Jirna Qaabki Aan Ugu So Dari Lahayn "Ed-TooLkit" Wana TooLka Ugu Xawaaraha iyo Dhakhsiyaha Badan marka Loo Eego Toolasha KaLe Ee iskugu jira "Bruteforce & Phishing". Insha'Allah Wakhti Yar Ka Dib Ayaan Kusoo Dari doona Waxadna Kala Socon Karta Wixi Fahfahina: "https://github.com/Edhacking/"
+  Hadii Aad Rabto Inaad Wax Nagu Darsato xor Ayaad U Tahay Inaad Nala so Wadaagto. Waadna Ku Mahadsantahay Dulqaadkaga Iyo Fahamkaaga!
 '''
 spam_phishing = '''
 
