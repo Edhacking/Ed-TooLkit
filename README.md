@@ -16,7 +16,6 @@
 ╚══════╝╚═════╝ 
    ✔Tool name: Ed-TooLkit 
    ✔Author:  Mr.Ed       .
-   ✔Coded By:Abdizamed moha
 
   </pre>
 </div>
@@ -31,9 +30,7 @@
   <img src="https://img.shields.io/badge/release-v3.1.0-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/> <br>
   <img src="https://img.shields.io/badge/author-Mr.Ed-141449" alt=""/>
-   <img src="https://img.shields.io/badge/Coded by-Abdizamed moha-141449" alt=""/>
-<p> <h5> Chat privately for the
- <a href="https://wa.me/+252905705112"> Coder 🎭</a> <br> Also you can see may <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/images/My-profile.jpg">Profile pic</a> <br> </h5> </p>
+   
  <h6><p align="center" style="color:yellow">
     FadLan Aqri si aad u fahanto qaabka Lo adeegsado! <a href="https://github.com/Edhacking/Ed-TooLkit/blob/main/cmd/You-must-read">Tap For More Info</a>
 </i></a>
@@ -226,7 +223,6 @@ Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> F
 <h3><p aling="center">For the additional things 💭 contact us on:</p></h3>
 <a href="https://t.me/">✔  Telegram </a> <b> Not Available 🚫</b><br>
 <a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b><br>
- <p aling="center"><a href="https://github.com/Abdizamedmoha">✔on GitHub</a><b> Second channel Available </b></p></h4>
 <br>
 <br>
-<h5><p align="center">© Copyright Abdizamed moha 2024</p></h5><br>
+<h5><p align="center">© Copyright Mr.Ed 2024</p></h5><br>
