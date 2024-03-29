@@ -5,7 +5,7 @@ ascii_art = ('''
 ██╔══╝  ██║  ██║       ██║   ██║   ██║██║   ██║██║     ╚════██║
 ███████╗██████╔╝       ██║   ╚██████╔╝╚██████╔╝███████╗███████║
 ╚══════╝╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
-                                                   Version:3.1
+so dhawoow jabso account walbo oo social media ah                                                  Version:3.1
 ✔ Author : MR.Ed                                 .
 ✔ GitHub : https://github.com/Edhacking/Ed-TooLkit           
   ''')
