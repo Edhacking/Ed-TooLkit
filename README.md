@@ -1,6 +1,5 @@
 ### Ed-TooLkit
 
- <h6><p align="center">Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso <a href="https://t.me/Ed110mo">Halkan Taabo</a></p></h6>
 
 ---
 <p align="center">
