@@ -83,11 +83,9 @@ cd dependencies
 
 sudo dpkg -i windscribe-cli.deb
 
-windscirbe login 
-
+windscirbe login
 
 pip3 install -r requirements.txt
-
 
 chmod +x *
 
@@ -108,11 +106,7 @@ systemctl start windscribe-cli
 
 windscribe login
 
-
-
 pip3 install -r requirements.txt
-
-
 
 chmod +x *
 
@@ -133,9 +127,7 @@ sudo dpkg -i windscribe-cli
 
 xbps-rindex -a windscribe-cli.xbps
 
-windscirbe login 
-
-
+windscirbe login
 
 pip3 install -r requirements.txt && cd..
 
@@ -158,9 +150,7 @@ sudo dpkg -i windscribe-cli.deb
 
 windscirbe login 
 
-
 pip3 install -r requirements.txt
-
 
 chmod +x *
 
@@ -177,7 +167,6 @@ cd Ed-TooLkit
 
 pip3 install -r requirements.txt
 
-
 chmod +x *
 
 python3 main.py
@@ -191,9 +180,7 @@ python3 main.py
 
 # extract zip file and open terminal into "Ed-TooLkit" folder
 
-
 pip install -r requirements.txt
-
 
 start windows.bat
 ```
